@@ -1,0 +1,27 @@
+#start, #status{
+    font-size: 22px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 3px solid white;
+    box-shadow: 3px 3px 3px white;
+}
